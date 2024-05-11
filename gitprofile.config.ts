@@ -69,26 +69,26 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
     email: 'ashwathesh@gmail.com',
-    email: 'ashsesh@uw.edu',
+    email2: 'ashsesh@uw.edu',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/ashsesh/pdf/blob/main/Seshamani_Tech%20Resume%20(1).pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
+    'Java',
+    'Python',
+    'SQL',
+    'R Programming',
+    'Web Development',
     'Nest.js',
     'MySQL',
     'PostgreSQL',
@@ -139,9 +139,9 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: '',
       conferenceName: '',
-      journalName: 'Journal Name',
+      journalName: '',
       authors: 'John Doe, Jane Smith',
       link: 'https://example.com',
       description:
