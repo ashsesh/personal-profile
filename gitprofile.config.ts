@@ -98,6 +98,12 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'Seattle City Light',
+      position: 'Power Markets Intern',
+      from: 'June 2024',
+      to: 'September 2024',
+    },
+    {
       company: 'PeerGuide',
       position: 'Co-Founder',
       from: 'October 2020',
@@ -109,29 +115,34 @@ const CONFIG = {
       position: 'Junior Cope Health Scholar Intern',
       from: 'May 2022',
       to: 'September 2022',
-      companyLink: 'https://example.com',
+    },
+    {
+      company: 'Kumon',
+      position: 'Classroom Assistant',
+      from: 'October 2021',
+      to: 'March 2022',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Google Data Analytics Professional Certificate',
+      body: 'This certificate has equipped me with essential skills to clean and organize data using spreadsheets, SQL, and R programming, ensuring data accuracy and consistency. I can perform detailed analyses and calculations, leveraging these tools for statistical insights. Additionally, I’ve gained proficiency in creating visualizations and dashboards with Tableau, spreadsheets, and ggplot2, enabling clear and effective presentation of data findings. These skills prepare me to transform raw data into actionable insights and compelling visual narratives.',
+      year: 'September 2023',
+      link: 'https://coursera.org/share/f0d336992bd5f715f9427913f60ec06e',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Washington',
+      degree: 'B.S. Informatics',
+      from: '2023',
+      to: '2027',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Issaquah High School',
+      degree: 'High School Diploma',
+      from: '2019',
+      to: '2023',
     },
   ],
   publications: [
