@@ -132,10 +132,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'Google Data Analytics Professional Certificate',
-      body: 'This certificate has equipped me with essential skills to clean and organize data using spreadsheets, SQL, and R programming, ensuring data accuracy and consistency.' 
-        'I can perform detailed analyses and calculations, leveraging these tools for statistical insights.' 
-        'Additionally, I’ve gained proficiency in creating visualizations and dashboards with Tableau, spreadsheets, and ggplot2, enabling clear and effective presentation of data findings.' 
-        'These skills prepare me to transform raw data into actionable insights and compelling visual narratives.',
+      body: 'This certificate has equipped me with essential skills to clean and organize data using spreadsheets, SQL, and R programming, ensuring data accuracy and consistency. I can perform detailed analyses and calculations, leveraging these tools for statistical insights. Additionally, I’ve gained proficiency in creating visualizations and dashboards with Tableau, spreadsheets, and ggplot2, enabling clear and effective presentation of data findings. These skills prepare me to transform raw data into actionable insights and compelling visual narratives.',
       year: 'September 2023',
       link: 'https://coursera.org/share/f0d336992bd5f715f9427913f60ec06e',
     },
