@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['ashsesh/cse373-projects', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -106,7 +106,7 @@ const CONFIG = {
     {
       company: 'Healthy Amplified',
       position: 'Product Analyst Intern',
-      from: 'Julyune 2024',
+      from: 'July 2024',
       to: 'September 2024',
     },
     {
