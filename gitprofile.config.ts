@@ -101,6 +101,7 @@ const CONFIG = {
       company: 'Seattle City Light',
       position: 'Power Ops & Market Trading Intern',
       from: 'June 2024',
+      body: 'Achieved 90% forecast accuracy for Q4 2024 energy market trends through SQL data analysis, coupled with Python and R predictive modeling techniques.\n\nReduced report generation time by 20%, saving 10+ hours per month, by developing a Tableau dashboard to streamline reporting processes.\n\nHelped generate $2.5M+ in monthly profits by providing real-time data insights to support day-ahead and real-time energy trading.',
       to: 'September 2024',
     },
     {
@@ -138,7 +139,7 @@ const CONFIG = {
           '• Create visualizations and dashboards with:\n' +
           '  - Tableau\n' +
           '  - Spreadsheets\n' +
-          '  - ggplot2 in R\n' +
+          '  - ggplot2 in R.\n' +
           'These skills prepare me to transform raw data into actionable insights and compelling visual narratives.',      
       year: 'September 2023',
       link: 'https://coursera.org/share/f0d336992bd5f715f9427913f60ec06e',
