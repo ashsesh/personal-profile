@@ -33,12 +33,14 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Seattle City Light Energy Pricing Analysis Q1 2025',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'The Energy Pricing Analysis Report for Seattle City Light (SCL) provides a comprehensive examination of energy pricing scenarios for Q1 2025. The report begins with a historical market price analysis, comparing PDX (real-time), forward, and day-ahead prices from January to March over several years. This analysis reveals significant price volatility, particularly in January and February, with forward prices generally higher than PDX and day-ahead prices. The report then presents a year-over-year price change analysis, using 2020 as a baseline, which shows substantial price increases across all markets, especially in January.' +
+'A regression model is used to predict forward prices through 2025, indicating an upward trend in energy costs. The model highlights higher prices during daytime hours, particularly from 10 AM to 8 PM, with peaks around midday. This information is valuable for businesses looking to optimize their energy usage and costs. The report also examines two pricing scenarios: an Index-Based Pricing Scenario and a Variable Megawatts Scenario. The Index-Based scenario, which involves selling energy at an index price plus a premium and buying back at the market index price, consistently yields positive profits across all three months. The Variable Megawatts scenario, while also profitable, shows narrower margins and requires careful adjustment of buyback amounts to profitability.' +
+'The report concludes by emphasizing the importance of understanding historical trends, predictive models, and various pricing strategies for informed decision-making in energy trading. It suggests that stakeholders can use this information to optimize their energy trading strategies, maximize returns, and mitigate risks in the dynamic energy market.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Seattle_City_Light_%28logo%29.svg/2560px-Seattle_City_Light_%28logo%29.svg.png',
+          link: 'https://docs.google.com/document/d/1_9Vuh5S40TpZHaC0WSprCs59sUr13HTM/edit?usp=sharing&ouid=115020781663086349708&rtpof=true&sd=true',
         },
         {
           title: 'Project Name',
@@ -163,13 +165,6 @@ const CONFIG = {
     {
     },
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
