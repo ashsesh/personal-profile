@@ -45,10 +45,10 @@ const CONFIG = {
         {
           title: 'Project Name',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'The centralized digital platform directly solves the problem of scattered information that makes it hard for students to find the resources they need. By bringing academic support, mental health resources, career counseling, and campus events into one easy-to-use web hub, the platform becomes super accessible, especially for first-year and international students who might find navigating multiple systems confusing. Features like a guided resource finder, categorized pages, and an interactive campus map make it simple for students to locate what they need without hassle. The personalized recommendations are a great touch, helping students find the most relevant support faster. Overall, this idea is easy to use, covers a wide range of student needs, and lines up with what success looks like, more students using campus services, attending events, and feeling less stressed about finding help.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://m.media-amazon.com/images/I/31+t0OIpl+L._AC_UF894,1000_QL80_.jpg',
+          link: 'https://www.figma.com/proto/FKCIbg2o7Qo2TJsvfrBZKN/ResourceFinderPrototype?node-id=0-1&t=Zuu3gMZK1ZF4OMVS-1',
         },
       ],
     },
