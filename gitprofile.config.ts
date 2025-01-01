@@ -35,21 +35,35 @@ const CONFIG = {
         {
           title: 'Seattle City Light Energy Pricing Analysis Q1 2025',
           description:
-            'The Energy Pricing Analysis Report for Seattle City Light (SCL) provides a comprehensive examination of energy pricing scenarios for Q1 2025. The report begins with a historical market price analysis, comparing PDX (real-time), forward, and day-ahead prices from January to March over several years. This analysis reveals significant price volatility, particularly in January and February, with forward prices generally higher than PDX and day-ahead prices. The report then presents a year-over-year price change analysis, using 2020 as a baseline, which shows substantial price increases across all markets, especially in January.' +
-'A regression model is used to predict forward prices through 2025, indicating an upward trend in energy costs. The model highlights higher prices during daytime hours, particularly from 10 AM to 8 PM, with peaks around midday. This information is valuable for businesses looking to optimize their energy usage and costs. The report also examines two pricing scenarios: an Index-Based Pricing Scenario and a Variable Megawatts Scenario. The Index-Based scenario, which involves selling energy at an index price plus a premium and buying back at the market index price, consistently yields positive profits across all three months. The Variable Megawatts scenario, while also profitable, shows narrower margins and requires careful adjustment of buyback amounts to profitability.' +
-'The report concludes by emphasizing the importance of understanding historical trends, predictive models, and various pricing strategies for informed decision-making in energy trading. It suggests that stakeholders can use this information to optimize their energy trading strategies, maximize returns, and mitigate risks in the dynamic energy market.',
+            'The Energy Pricing Analysis Report for Seattle City Light (SCL) provides a comprehensive examination of energy pricing scenarios for Q1 2025. The report begins with a historical market price analysis, comparing PDX (real-time), forward, and day-ahead prices from January to March over several years. This analysis reveals significant price volatility, particularly in January and February, with forward prices generally higher than PDX and day-ahead prices. The report then presents a year-over-year price change analysis, using 2020 as a baseline, which shows substantial price increases across all markets, especially in January.',
           imageUrl:
-            'https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Seattle_City_Light_%28logo%29.svg/2560px-Seattle_City_Light_%28logo%29.svg.png',
+            'https://media.licdn.com/dms/image/v2/C560BAQFhcWni8qYVRA/company-logo_200_200/company-logo_200_200/0/1630649311542/seattle_city_light_logo?e=2147483647&v=beta&t=d3JMupDaMlXt0zgT2czirqcF4l85ATXRX8qCm-lJaG4',
           link: 'https://docs.google.com/document/d/1_9Vuh5S40TpZHaC0WSprCs59sUr13HTM/edit?usp=sharing&ouid=115020781663086349708&rtpof=true&sd=true',
         },
         {
-          title: 'Project Name',
+          title: 'UW Resource Finder',
           description:
             'The centralized digital platform directly solves the problem of scattered information that makes it hard for students to find the resources they need. By bringing academic support, mental health resources, career counseling, and campus events into one easy-to-use web hub, the platform becomes super accessible, especially for first-year and international students who might find navigating multiple systems confusing. Features like a guided resource finder, categorized pages, and an interactive campus map make it simple for students to locate what they need without hassle. The personalized recommendations are a great touch, helping students find the most relevant support faster. Overall, this idea is easy to use, covers a wide range of student needs, and lines up with what success looks like, more students using campus services, attending events, and feeling less stressed about finding help.',
           imageUrl:
             'https://m.media-amazon.com/images/I/31+t0OIpl+L._AC_UF894,1000_QL80_.jpg',
           link: 'https://www.figma.com/proto/FKCIbg2o7Qo2TJsvfrBZKN/ResourceFinderPrototype?node-id=0-1&t=Zuu3gMZK1ZF4OMVS-1',
         },
+        {
+          title: 'SmartSip',
+          description:
+            'This project entails the development of a comprehensive coffee consumption tracking app that prioritizes user experience through thoughtful design principles. The application offers several key features to help users monitor and manage their coffee habits, including caffeine tracking, financial management, and an open-source database. The caffeine tracking feature allows users to log their coffee intake, enabling them to monitor their daily caffeine consumption. Financial management tools are incorporated to help users track their coffee-related expenses, potentially including individual purchase tracking, monthly spending calculations, and insights on potential savings. The integration of an open-source database offers a wide range of coffee-related information, which could include details about various coffee beans, brewing methods, or local coffee shops.',
+          imageUrl:
+            'https://media.licdn.com/dms/image/v2/C4E12AQG8_Do1Iam3bA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1638280617625?e=2147483647&v=beta&t=c6l6F9fWlqW3O1W9N40Z9fJWuBTV08u8_3Gt6-cpPWM',
+          link: 'https://www.figma.com/proto/Efvu2ierYZ1YIDtAH8oujI/Onboarding?node-id=0-1&t=a3ZPDaQqijoR81qd-1',
+        },
+        {
+          title: 'Your Preferred Information World',
+          description:
+            'This project explores the TikTok algorithm and its impact on users information consumption and opinion formation. The study examines how TikToks advanced machine learning algorithm analyzes user behavior to create personalized content streams through the For You Page (FYP). It highlights the platforms advantages, such as tailored content feeds, increased discoverability of new trends and topics, and exposure to diverse content from various creators. The project also discusses TikToks user-centric design elements, including the intuitive interface and full-screen video playback, which contribute to its popularity. However, it also addresses potential drawbacks, such as the risk of creating echo chambers, reinforcing biases, and inadvertently promoting cultural insensitivity. The research considers the implications of TikToks algorithm on user polarization and proposes potential solutions to mitigate these effects, such as implementing alerts to encourage users to explore diverse perspectives. Overall, this project provides a comprehensive analysis of TikToks algorithm, its benefits, challenges, and potential improvements to create a more balanced and inclusive information environment.',
+          imageUrl:
+            'https://www.logo.wine/a/logo/TikTok/TikTok-Logomark%26Wordmark-Vertical-Logo.wine.svg',
+          link: 'https://docs.google.com/document/d/1T5S_izHE1jz77pyRMbLHFFtemw7AoLuOQbFxJnB5JOc/edit?usp=sharing',
+        },        
       ],
     },
   },
