@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['ashsesh/F1-Project','zhk2/HomeHelp.io','ashsesh/Data-Structures-Algorithms-Projects', 'ashsesh/Seattle-City-Light', 'ccsekhar20/claude-hackathon'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
