@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['ashsesh/Data-Structures-Algorithms-Projects', 'ashsesh/Seattle-City-Light'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['ashsesh/F1-Project','zhk2/HomeHelp.io','ashsesh/Data-Structures-Algorithms-Projects', 'ashsesh/Seattle-City-Light', 'ccsekhar20/claude-hackathon'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -90,29 +90,42 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: '',
+    website: 'https://ashsesh.github.io/personal-profile/',
     phone: '',
     email: 'ashwathesh@gmail.com',
     email2: 'ashsesh@uw.edu',
   },
   resume: {
     fileUrl:
-      'https://github.com/ashsesh/pdf/blob/main/Seshamani_Tech%20Resume%20(1).pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/ashsesh/pdf/blob/main/Resume_Ashwath%20(1).pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
     'Python',
     'SQL',
     'R Programming',
+    'TypeScript',
+    'React',
+    'REST API',
+    'System Architecture',
+    'Database Design',
+    'Git',
+    'AWS (Bedrock, CDK, Redshift, Lambda)',
     'Web Development',
     'Figma',
-    'Git',
     'Problem Solving',
     'Communication',
     'Leadership',
     'Critical Thinking',
   ],
   experiences: [
+    {
+      company: 'Amazon',
+      position: 'Software Development Engineering (SDE) Intern',
+      from: 'June 2025',
+      body: '',
+      to: 'September 2025',
+    },
     {
       company: 'Seattle City Light',
       position: 'Power Ops & Market Trading Intern',
@@ -166,7 +179,7 @@ const CONFIG = {
       institution: 'University of Washington',
       degree: 'B.S. Informatics',
       from: '2023',
-      to: '2026',
+      to: '2027',
     },
     {
       institution: 'Issaquah High School',
