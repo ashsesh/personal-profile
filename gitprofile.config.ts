@@ -73,6 +73,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
+    about: 'test',
     linkedin: 'ashwath-seshamani',
     twitter: '',
     mastodon: '',
