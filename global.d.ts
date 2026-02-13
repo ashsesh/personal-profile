@@ -410,6 +410,12 @@ interface Config {
   resume?: Resume;
 
   /**
+   * About section content (supports HTML)
+   */
+  about?: string;
+ 
+
+  /**
    * Google Analytics config
    */
   googleAnalytics?: GoogleAnalytics;
