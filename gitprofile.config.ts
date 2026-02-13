@@ -10,7 +10,7 @@ const CONFIG = {
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
   base: '/personal-profile/',
-    aboutMe: {
+  aboutMe: {
     name: 'Ashwath Seshamani',
     description: 'Your bio/description here. Talk about yourself, your interests, what you do, etc.'
   },
