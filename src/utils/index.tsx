@@ -85,6 +85,7 @@ export const getSanitizedConfig = (
       resume: {
         fileUrl: config?.resume?.fileUrl || '',
       },
+      about: config?.about || '',
       skills: config?.skills || [],
       experiences:
         config?.experiences?.filter(

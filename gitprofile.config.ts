@@ -99,6 +99,17 @@ const CONFIG = {
     fileUrl:
       'https://github.com/ashsesh/pdf/blob/main/Resume_Ashwath%20(1).pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
+  about: `I am an Informatics & Data Science student at the University of Washington driven by a simple goal: using data to build technology that solves real-world business problems.
+    <br/><br/>
+    My background spans full-stack engineering, data science, and product strategy, giving me a unique lens to view both the "how" (technical execution) and the "why" (product-market fit).
+    <br/><br/>
+    <strong>What I bring to the table:</strong>
+    <br/><br/>
+    <strong>Engineering Excellence:</strong> Previously an SDE Intern at Amazon, where I architected an AI-driven platform using AWS Bedrock and Claude Sonnet to transform 25 years of A/B test data into actionable insights for product teams at Amazon.
+    <br/><br/>
+    <strong>Product Thinking:</strong> I don't just write code; I design systems with the end-user in mind. My experiences at UW Product Space, combined with taking products from 0 to 1 and product-managing automated analytics pipelines, have taught me to bridge technical capabilities with business value. I translate user needs into technical requirements and ship solutions that drive real business outcomes.
+    <br/><br/>
+    <strong>Entrepreneurial Spirit:</strong> Whether I'm leading product initiatives, consulting with startups, or architecting scalable systems, I thrive in environments that challenge me to think like both an engineer and an owner, building solutions that balance technical excellence with strategic impact. I'm passionate about leveraging software to create meaningful products that drive business outcomes.`,
   skills: [
     'Java',
     'Python',
