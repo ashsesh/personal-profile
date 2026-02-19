@@ -38,7 +38,7 @@ const AboutCard = ({
             </div>
           ) : (
             <div
-              className="mx-3 text-sm"
+              className="mx-3"
               dangerouslySetInnerHTML={{ __html: about }}
             />
           )}
