@@ -2,6 +2,22 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Improve readability: increase card padding from compact default */
+.card.compact .card-body {
+  padding: 1.5rem;
+}
+
+/* Increase base text size inside cards for better readability */
+.card .card-body {
+  font-size: 0.975rem;
+  line-height: 1.7;
+}
+
+/* Larger, bolder card titles */
+.card .card-title {
+  font-size: 1.3rem;
+}
+
 * {
   scrollbar-width: thin;
 }
